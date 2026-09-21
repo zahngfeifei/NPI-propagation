@@ -781,3 +781,8 @@ original Neural Perturbational Inference study.
 
 If using the study-specific analysis code contained in this repository,
 please also cite the associated manuscript.
+
+## License
+
+The study-specific code in this repository is distributed under the
+Apache License 2.0. See the `LICENSE` file for details.
